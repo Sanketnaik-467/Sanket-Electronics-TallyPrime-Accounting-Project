@@ -36,19 +36,19 @@ This project demonstrates practical accounting and inventory management operatio
 ## 🖼️ Project Screenshots
 
 ### Trial Balance
-<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/Sanketnaik-467/Sanket-Electronics-TallyPrime-Accounting-Project/blob/8400a974e801482ef036a9eff2314cf2df13426b/Trial_Balance.png" alt="Image Description" width="300">
 
 ### Trading & Profit and Loss Account
-<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/Sanketnaik-467/Sanket-Electronics-TallyPrime-Accounting-Project/blob/8400a974e801482ef036a9eff2314cf2df13426b/Traiding_Profit%26Loss_Account.png" width="300">
 
 ### Balance Sheet
-<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/Sanketnaik-467/Sanket-Electronics-TallyPrime-Accounting-Project/blob/8400a974e801482ef036a9eff2314cf2df13426b/Balance_Sheet.png" alt="Image Description" width="300">
 
 ### Stock Summary
-<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/Sanketnaik-467/Sanket-Electronics-TallyPrime-Accounting-Project/blob/8400a974e801482ef036a9eff2314cf2df13426b/Stock_Summary.png" alt="Image Description" width="300">
 
 ### Bank Reconciliation Statement
-<img src="https://github.com/Sanketnaik-467/Ecommerce-sales-data-Excel-/blob/dcc11e802e55c6ae7cb82c0a8924c1f535d9b059/Ecommerce_Sales_Dashboard.png" alt="Image Description" width="300">
+<img src="https://github.com/Sanketnaik-467/Sanket-Electronics-TallyPrime-Accounting-Project/blob/8400a974e801482ef036a9eff2314cf2df13426b/Bank_Reconciliation_Statement.png" alt="Image Description" width="300">
 
 ## 🛠️ Tools & Technologies
 
