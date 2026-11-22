@@ -53,7 +53,9 @@ This project demonstrates practical accounting and inventory management operatio
 ## 🛠️ Tools & Technologies
 
 •  **TallyPrime:** Accounting, taxation and inventory management.
+
 • **Microsoft Excel:** Financial report handling and data presentation.
+
 •  **PDF:** Financial report documentation and sharing.
 
 ## 🎯 Project Outcome
@@ -61,11 +63,17 @@ This project demonstrates practical accounting and inventory management operatio
 This project strengthened my understanding of accounting principles and provided hands-on exposure to:
 
 • Recording and managing business transactions.
+
 •  Maintaining customer and supplier accounts.
+
 •  Applying GST and TDS accounting concepts.
+
 •  Managing inventory across multiple godowns.
+
 •  Performing bank reconciliation exercises.
+
 •  Recording adjustment entries.
+
 •  Preparing and interpreting financial statements.
 
 
