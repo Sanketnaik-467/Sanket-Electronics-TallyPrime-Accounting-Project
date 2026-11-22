@@ -5,7 +5,7 @@
 
 This project demonstrates practical accounting and inventory management operations using **TallyPrime** for a fictional electronics trading company, Sanket Electronics Pvt. Ltd. The project simulates business accounting activities, covering transaction recording, taxation, inventory management, banking operations, adjustment entries and financial reporting. The main objective was to gain hands-on experience with TallyPrime and understand how accounting operations are managed in a business environment.
 
- ## 🏢** Business Challenge**
+ ## 🏢 Business Challenge
 
 *Electronics trading businesses handle numerous daily transactions involving purchases, sales, inventory movements, customers, suppliers, taxation and banking activities.
 
@@ -22,49 +22,16 @@ This project demonstrates practical accounting and inventory management operatio
 ## ⭐ Key Features
 
 ### 1. Accounting & Ledger Management
-- Company creation and configuration.
-- Ledger creation and classification.
-- Purchase and sales transactions.
-- Payment, receipt and journal vouchers.
-- Debit notes and credit notes.
-- Purchase orders and sales orders.
-- Bills Receivable and Bills Payable.
 
 ### 2. GST & TDS Accounting
-- GST configuration and calculations.
-- CGST, SGST, IGST and UTGST.
-- TDS deductions on rent, professional fees, contractor payments, commission and interest.
 
 ### 3. Inventory Management
-- Stock groups, stock categories and stock items.
-- Units of measurement.
-- Multiple godown management.
-- Dealer, wholesale and retail price levels.
-- Quantity-based pricing.
-- Physical stock verification.
-- Stock summary and inventory valuation.
 
 ### 4. Banking Operations
-- Bank Reconciliation Statement (BRS).
-- Manual bank reconciliation using dummy bank-statement data.
-- Bills Receivable and Bills Payable settlement.
 
 ### 5. Advanced Accounting Concepts
-- Bad debts and bad debt recovery.
-- Provision for doubtful debts.
-- Prepaid and outstanding expenses.
-- Accrued income.
-- Income received in advance.
-- Fixed assets and depreciation.
-- Bank loan and interest accounting.
 
 ### 6. Financial Reporting
-- Trial Balance.
-- Trading Account.
-- Profit & Loss Account.
-- Balance Sheet.
-- Financial report export in Excel and PDF.
-- Company data backup and restore.
 
 ## 🖼️ Project Screenshots
 
