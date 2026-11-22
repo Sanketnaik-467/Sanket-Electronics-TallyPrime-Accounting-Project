@@ -7,17 +7,17 @@ This project demonstrates practical accounting and inventory management operatio
 
  ## 🏢 Business Challenge
 
-*Electronics trading businesses handle numerous daily transactions involving purchases, sales, inventory movements, customers, suppliers, taxation and banking activities.
+• Electronics trading businesses handle numerous daily transactions involving purchases, sales, inventory movements, customers, suppliers, taxation and banking activities.
 
-*Managing these operations requires accurate accounting records, proper ledger classification, inventory tracking and reliable financial reporting.
+• Managing these operations requires accurate accounting records, proper ledger classification, inventory tracking and reliable financial reporting.
 
-*This project was designed to simulate these business activities and apply accounting concepts through practical exercises in TallyPrime.
+• This project was designed to simulate these business activities and apply accounting concepts through practical exercises in TallyPrime.
 
 ## 💡 Solution
 
-*Using TallyPrime, I created and configured a fictional company and performed practical accounting and inventory management operations.
+• Using TallyPrime, I created and configured a fictional company and performed practical accounting and inventory management operations.
 
-*The project covers the complete accounting workflow, from recording business transactions to reviewing the Trial Balance, Trading Account, Profit & Loss Account and Balance Sheet.
+• The project covers the complete accounting workflow, from recording business transactions to reviewing the Trial Balance, Trading Account, Profit & Loss Account and Balance Sheet.
 
 ## ⭐ Key Features
 
@@ -52,21 +52,21 @@ This project demonstrates practical accounting and inventory management operatio
 
 ## 🛠️ Tools & Technologies
 
-- **TallyPrime:** Accounting, taxation and inventory management.
-- **Microsoft Excel:** Financial report handling and data presentation.
-- **PDF:** Financial report documentation and sharing.
+•  **TallyPrime:** Accounting, taxation and inventory management.
+• **Microsoft Excel:** Financial report handling and data presentation.
+•  **PDF:** Financial report documentation and sharing.
 
 ## 🎯 Project Outcome
 
 This project strengthened my understanding of accounting principles and provided hands-on exposure to:
 
-- Recording and managing business transactions.
-- Maintaining customer and supplier accounts.
-- Applying GST and TDS accounting concepts.
-- Managing inventory across multiple godowns.
-- Performing bank reconciliation exercises.
-- Recording adjustment entries.
-- Preparing and interpreting financial statements.
+• Recording and managing business transactions.
+•  Maintaining customer and supplier accounts.
+•  Applying GST and TDS accounting concepts.
+•  Managing inventory across multiple godowns.
+•  Performing bank reconciliation exercises.
+•  Recording adjustment entries.
+•  Preparing and interpreting financial statements.
 
 
 **Thank you for visiting my project!**
